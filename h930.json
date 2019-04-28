@@ -1,13 +1,12 @@
-{
   "response": [
     {
-      "filename": "AOSiP-9.0-Pizza-h930-20190428.zip ",
-      
-      "romtype": "UNOfficial",
-      "size": "639982283",
-      "datetime": 1556474700,
-      "id": "978135723b11cfce1e8d5b6d29d8bb74ad3032552f05e2a0bfd1c4b3d9f6a48d",
-      "url": "https://sourceforge.net/projects/luffy1105/files/aosip/AOSiP-9.0-Pizza-h930-20190428.zip/download"
+      "datetime": 1556443170,
+      "filename": "AOSiP-9.0-Pizza-h930-20190428.zip",
+      "id": "9bd652d21c35d9a9a46a55915c212b87",
+      "romtype": "nightly",
+      "size": 602157788,
+      "url": "",
+      "version": "15.1"
     }
   ]
 }
